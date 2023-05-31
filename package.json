@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Real-Time-Chat-Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopi-Sekar/chatApp.git"
+  },
+  "author": "Gopi Sekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gopi-Sekar/chatApp/issues"
+  },
+  "homepage": "https://github.com/Gopi-Sekar/chatApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
